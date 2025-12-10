@@ -1,5 +1,5 @@
 services:
-  ia4:
+  data_analysis_pipeline_practice:
     image: jiroamato/data_analysis_pipeline_practice:latest
     volumes:
       - .:/workspace
