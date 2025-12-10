@@ -1,6 +1,6 @@
 services:
   ia4:
-    image: skysheng7/ia4:62faa96
+    image: jiroamato/data_analysis_pipeline_practice:latest
     volumes:
       - .:/workspace
     working_dir: /workspace  # Add this line
